@@ -1,0 +1,18 @@
+{
+  "name": "langchain-into",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/node": "^25.6.0",
+    "dotenv": "^17.4.2",
+    "fastify": "^5.8.5",
+    "langsmith": "^0.5.26"
+  }
+}
